@@ -4,7 +4,8 @@
 ## Screenshots
 
 
-![project](https://user-images.githubusercontent.com/51821426/208213987-b66bfc6b-4dc5-43fe-9354-c247395a850f.jpg)
+![project](![Screenshot 2025-03-23 104152](https://github.com/user-attachments/assets/4b2434a6-7f8d-448c-8dfe-329ea89c5546)
+)
 
 ## Installation
 
